@@ -1,5 +1,7 @@
 英伟达
 NVIDIA
+谷歌
+阿里
 ai
 !gai
 人工智能
@@ -19,6 +21,8 @@ ai
 
 孟加拉
 Bangladesh
+Bengal
+Dhaka
 
 印度
 India
@@ -31,12 +35,7 @@ UAE
 俄罗斯
 Russia
 
-芯片
-光刻机
-
 科技
-
-核能
 
 新质生产力
 
